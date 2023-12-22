@@ -19,7 +19,7 @@ This web application fetches and displays the latest posts from a forum. It prov
 
 ## Instructions
 
-1. Clone the repository: `git clone https://github.com/your-username/forum-latest-posts.git`
+1. Clone the repository: `git clone https://github.com/syedamaann/forum-latest-posts.git`
 2. Open `index.html` in a web browser.
 
 ## Usage
